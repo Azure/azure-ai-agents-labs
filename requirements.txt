@@ -34,7 +34,7 @@ ipykernel==6.29.5
 ipython==8.31.0
 isodate==0.7.2
 jedi==0.19.2
-Jinja2==3.1.5
+Jinja2==3.1.6
 jiter==0.8.2
 jsonschema==4.23.0
 jsonschema-path==0.3.3
