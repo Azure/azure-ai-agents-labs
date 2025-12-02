@@ -97,7 +97,7 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 urllib3==2.3.0
 wcwidth==0.2.13
-Werkzeug==3.1.3
+Werkzeug==3.1.4
 wrapt==1.17.2
 yarl==1.18.3
 zipp==3.21.0
