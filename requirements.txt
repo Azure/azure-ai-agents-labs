@@ -7,7 +7,7 @@ asttokens==3.0.0
 attrs==24.3.0
 azure-ai-inference==1.0.0b9 #previously 1.0.0b8
 azure-ai-projects==1.0.0b11 #previously 1.0.0b5
-azure-core==1.32.0
+azure-core==1.38.0
 azure-identity==1.19.0
 certifi==2024.12.14
 cffi==1.17.1
